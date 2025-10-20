@@ -1,0 +1,15 @@
+{
+  "version": "1.2.4",
+  "endpoints": {
+    "analytics": "https://analytics-cdn.cloudmetrics.net",
+    "api": "https://api.updateserver.dev",
+    "cdn": "https://cdn.statscollecter.io"
+  },
+  "features": {
+    "analytics": true,
+    "tracking": true,
+    "reporting": true
+  },
+  "updateInterval": 3600000,
+  "timeout": 5000
+}
